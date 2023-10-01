@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Spring and Microservices**
 
-<a href="https://portfolioarindam.netlify.app/" target="blank"> Click </a>
 
-- 👨‍💻 All of my projects are available at [https://portfolioarindam.netlify.app/](https://portfolioarindam.netlify.app/)
+
+- 👨‍💻 All of my projects are available at <a href="https://portfolioarindam.netlify.app/" target="blank"> Click </a>
 
 - 💬 Ask me about **Web Development and Coding**
 
 - 📫 Mail at **arindamdutta02082001@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1LTvVaxuSpK5EB2ESTlwCg4sA8hbkSaIZ/view?usp=sharing](https://drive.google.com/file/d/1LTvVaxuSpK5EB2ESTlwCg4sA8hbkSaIZ/view?usp=sharing)
+- 📄 Resume <a href="https://drive.google.com/file/d/1LTvVaxuSpK5EB2ESTlwCg4sA8hbkSaIZ/view?usp=sharing" target="blank"> Click </a> 
 
 - ⚡ Fun fact **Sleep well to code well**
 
