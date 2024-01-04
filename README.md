@@ -2,12 +2,10 @@
 <h3 align="center">Software Developer ,who likes to explore new fields</h3>
 
 <h3 align="left"> <img width=50 height=20 src="https://komarev.com/ghpvc/?username=arindamdutta&label=View&color=0e75b6&style=flat" alt="arindamdutta" /> </h3>
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<div ><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><img eight="100%" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video"/></div>
 
 
 - 🌱 I’m currently learning **Spring and Microservices**
-
-
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolioarindam.netlify.app/" target="_blank"> Click here </a>
 
