@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer ,who likes to explore new fields</h3>
 
 <h3 align="left"> <img width=50 height=20 src="https://komarev.com/ghpvc/?username=arindamdutta&label=View&color=0e75b6&style=flat" alt="arindamdutta" /> </h3>
-<img align="right" width="400" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video">
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/C5oD3WouufnWORp7wP">
 <iframe src="https://giphy.com/embed/C5oD3WouufnWORp7wP" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/storyful-animals-kids-dogs-C5oD3WouufnWORp7wP">via GIPHY</a></p>
 
 
