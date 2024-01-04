@@ -2,8 +2,7 @@
 <h3 align="center">Software Developer ,who likes to explore new fields</h3>
 
 <h3 align="left"> <img width=50 height=20 src="https://komarev.com/ghpvc/?username=arindamdutta&label=View&color=0e75b6&style=flat" alt="arindamdutta" /> </h3>
-<img align="right" alt="coding" height="400" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR0NnpvMjh3c3oyY2NjcWhvdjBpaW8yMmNoMmx1bG8yb2luZHhnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C5oD3WouufnWORp7wP/giphy.gif">
-<iframe src="https://giphy.com/embed/C5oD3WouufnWORp7wP" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">via GIPHY</a></p>
+<img align="right" alt="coding" height="300" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR0NnpvMjh3c3oyY2NjcWhvdjBpaW8yMmNoMmx1bG8yb2luZHhnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C5oD3WouufnWORp7wP/giphy.gif">
 
 
 - 🌱 I’m currently learning **Spring and Microservices**
