@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer ,who likes to explore new fields</h3>
 
 <h3 align="left"> <img width=50 height=20 src="https://komarev.com/ghpvc/?username=arindamdutta&label=View&color=0e75b6&style=flat" alt="arindamdutta" /> </h3>
-<div ><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><img eight="100%" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video"/></div>
+<img align="right" width="400" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video"/>
 
 
 - 🌱 I’m currently learning **Spring and Microservices**
