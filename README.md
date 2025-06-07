@@ -2,18 +2,18 @@
 <h3 align="center">Software Developer ,who likes to explore new fields</h3>
 
 <h3 align="left"> <img width=50 height=20 src="https://komarev.com/ghpvc/?username=arindamdutta&label=View&color=0e75b6&style=flat" alt="arindamdutta" /> </h3>
-<img align="right" alt="coding" height="300" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR0NnpvMjh3c3oyY2NjcWhvdjBpaW8yMmNoMmx1bG8yb2luZHhnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C5oD3WouufnWORp7wP/giphy.gif">
+<img align="right" alt="coding" height="300" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQzcW9nYWEza2NiY3JpNTZmdTBub2hjZ2F0cGg4cWJkNWM4c3hqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 
-- 🌱 I’m currently learning **Spring and Microservices**
+- 🌱 I’m currently learning **Springboot and Microservices , Design Patterns , Distributed Systems**
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolioarindam.netlify.app/" target="_blank"> Click here </a>
 
-- 💬 Ask me about **Web Development and Coding**
+- 💬 Ask me about **Development and Coding**
 
 - 📫 Mail at **arindamdutta02082001@gmail.com**
 
-- 📄 Resume <a href="https://drive.google.com/file/d/1LTvVaxuSpK5EB2ESTlwCg4sA8hbkSaIZ/view?usp=sharing" target="_blank"> Click here </a> 
+- 📄 Resume <a href="https://drive.google.com/file/d/1VGAo2hQ4SB_D9kH9IyOwN86a2MB_dbqx/view?usp=drive_link" target="_blank"> Click here </a> 
 
 - ⚡ Fun fact **Sleep well to code well**
 
