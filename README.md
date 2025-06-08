@@ -4,6 +4,7 @@
 <h3 align="left"> <img width=50 height=20 src="https://komarev.com/ghpvc/?username=arindamdutta&label=View&color=0e75b6&style=flat" alt="arindamdutta" /> </h3>
 <img align="right" alt="coding" height="300" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVnZDAwYnpob21yZGF4ZGM3MnBhdmhrd3U4Y2s2dnNvZ2VlejJ3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif">
 
+
 - 🌱 I’m currently learning **Springboot and Microservices , Design Patterns , Distributed Systems**
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolioarindam.netlify.app/" target="_blank"> Click here </a>
