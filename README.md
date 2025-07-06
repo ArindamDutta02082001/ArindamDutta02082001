@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Development and Coding**
 
-- 📫 Mail at **arindamdutta.work2025@gmail.com**
+- 📫 Mail at **arindamduttawork25@gmail.com**
 
-- 📄 Resume <a href="https://drive.google.com/file/d/1XB2Uz_msJmNNVWXjQ1ONyOGnnmpvzQtA/view?usp=drive_link" target="_blank"> Click here </a> 
+- 📄 Resume <a href="https://drive.google.com/file/d/1XLsJ_pp0xqsHzquk6qrqPir-7AfR5M65/view?usp=sharing" target="_blank"> Click here </a> 
 
 - ⚡ Fun fact **Sleep well to code well**
 
